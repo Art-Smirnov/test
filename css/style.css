@@ -1,10 +1,15 @@
 .section-cat {
-    background-color: aqua;
-    max-width: 700px;
+  background-color: aqua;
+  max-width: 700px;
 }
 
 h1 {
-    font-size: 50px;
+  font-size: 50px;
 }
 
-
+.hi__piple {
+  width: 500px;
+  height: 300px;
+  margin: 20px;
+  background-color: tomato;
+}
